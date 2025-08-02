@@ -3,6 +3,9 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+compress-pickle
+joblib
+
 
 
 
